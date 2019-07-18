@@ -1,0 +1,23 @@
+so now we are talking about your plans ahead
+how is it going to be and what you need to carry on your plans
+yes, i know that i have talk about this in my journal
+but now is the time to make it more rigorous
+
+# Phase 1, 6 months from july to december
+it is all about preparation and learning
+so better get your brain ready and prepare it to work like a sponge
+surely there are setbacks for you to become a data scientist next year
+you what that is? you dont have any major title and experience
+well, if in this 6 months you can learn all that matters 
+so... there will be a chance for it...
+or atleast you can have an intership program
+
+the necessary knowledge to learn, for data science:
+- basic data science with python
+- learn R
+- excel and SPSS
+- queries SQL,NOSQL databases
+- programming skill, java, javascript
+- hadoop, apache spark
+
+surely there are a lot of things to learn... 
