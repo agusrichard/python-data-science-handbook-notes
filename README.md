@@ -2,31 +2,31 @@
 
 Learning notes for Python Data Science Handbook
 
-Repository ini berisi catatan belajar dari buku _Python Data Science Handbook_ oleh __Jack Venderplas__, terbitan O'Reilly.
+This repository contains learning notes of _Python Data Science Handbook_ by __Jack Venderplas__ of O'Reilly Publisher.
 
-## Isi
+## Contents:
 
 ### [Chapter 1](https://github.com/agusrichard/python-data-science-handbook-notes/tree/master/Chapter%201) IPython: Beyond Normal Python
 
-Mempelajari: 
+Learn: 
 
-Pengenalan terhadap IPython, Jupyter Notebook dan berbagai sintaks yang akan diperlukan untuk chapter berikutnya.
+Introduction to IPython, Jupyter Notebook and several fundamental syntax for further chapter.
 
 
 ### [Chapter 2](https://github.com/agusrichard/python-data-science-handbook-notes/tree/master/Chapter%202) Introduction to Numpy
 
-Mempelajari:
+Learn:
 
-- Tipe data dan perbedaan antara objek python biasa dengan objek numpy.
-- Berbagai komputasi pada objek numpy.
-- Aggregasi seperti, mean, median, sum, dll.
-- Broadcasting, Masking, Comparison, Sorting dan Fancy Indexing
-- Experimentasi mandiri
+- Data type and differences between traditional python object and numpy object.
+- Several computation with numpy object.
+- Aggregation like mean, median, sum, dll.
+- Broadcasting, Masking, Comparison, Sorting and Fancy Indexing
+- Experimentation.
 
 
 ### [Chapter 3](https://github.com/agusrichard/python-data-science-handbook-notes/tree/master/Chapter%203) Data Manipulation with Pandas
 
-Mempelajari:
+Learn:
 
 - Pandas object
 - Data indexing and selection
@@ -39,7 +39,7 @@ Mempelajari:
 
 ### [Chapter 4](https://github.com/agusrichard/python-data-science-handbook-notes/tree/master/Chapter%204) Visualization with Matplotlib
 
-Mempelajari: 
+Learn: 
 
 - Line plot
 - Scatter plot
@@ -52,8 +52,8 @@ Mempelajari:
 
 ### [Chapter 5](https://github.com/agusrichard/python-data-science-handbook-notes/tree/master/Chapter%205) Machine Learning
 
-Mempelajari:
+Learn:
 
-- Konsep machine learning
+- Machine Learning concepts
 - Hyperparameters and Model Validation
 - Feature Engineering
