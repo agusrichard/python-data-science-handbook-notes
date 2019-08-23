@@ -63,7 +63,7 @@ data = pd.DataFrame({'area':area, 'pop':pop})
 print(data)
 print(data[1:3])
 print(data['area']) # accessing certain column with dictionary accessing
-print(data.area) # similar with before
+print(data.area) # similar as before
 print(data.area is data['area'])
 # this shorthand form only works if it is a string and no-space allowed or conflict the method of dataframe
 print(data.pop is data['pop']) # if there is a conflicting column label with method, the method wins
